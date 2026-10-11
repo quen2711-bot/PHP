@@ -173,4 +173,4 @@ $dsSanPham = $conn->query("SELECT * FROM SanPham ORDER BY MaSP")->fetchAll(PDO::
     <?php endforeach; ?>
 </table>
 </body>
-</html>
+</html
